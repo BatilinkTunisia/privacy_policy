@@ -1,0 +1,96 @@
+Politique de Confidentialité de Batilink
+Date d'entrée en vigueur : 27 Octobre 2025
+Cette politique de confidentialité décrit comment l'application mobile Batilink (ci-après, « nous », « notre » ou 
+« l’Application ») collecte, utilise et partage les informations des utilisateurs (ci-après, « vous ») de nos services.
+
+  1. Informations Générales sur l'Application
+L'application Batilink a pour objectif de mettre en relation des utilisateurs (Clients) avec des professionnels du bâtiment 
+et de la construction (Exécuteurs, Fournisseurs).
+L'Application est développée par Batilink Creativo et utilise Supabase comme plateforme backend et base de données.
+
+  2. Types de Données Collectées
+Nous recueillons les informations suivantes, selon votre type de compte :
+  
+A. Données collectées via l'Authentification Google
+Lorsque vous vous inscrivez ou vous connectez via votre compte Google (mécanisme géré par Supabase Auth), nous collectons :
+Identifiant unique de l'utilisateur (UID)
+Votre adresse e-mail
+Votre nom et prénom (tel que fourni par Google)
+
+B. Données de Profil Générales (Applicables à tous les utilisateurs)
+Rôles d'utilisateur : Statut "Utilisateur Normal" ou "Utilisateur Professionnel" (Exécuteur ou Fournisseur).
+Commentaires et Avis : Les notes et les commentaires que vous laissez sur les profils des professionnels.
+Données de localisation : Votre localisation actuelle (ou la localisation de votre recherche) est utilisée pour vous
+afficher des professionnels à proximité.
+
+C. Données de Profil Professionnel (Applicables aux Professionnels uniquement)
+Si vous mettez à jour votre profil pour devenir un Utilisateur Professionnel, vous fournissez volontairement les 
+informations suivantes, qui sont par nature destinées à être publiques :
+Coordonnées : Numéro de téléphone.
+Informations de l'entreprise : Description détaillée de l'activité.
+Contenu de travail : Photos des réalisations, annonces de produits (pour les Fournisseurs).
+
+D. Données d'utilisation et d'analyse
+Nous recueillons des informations sur la manière dont vous accédez et utilisez l'Application, y compris :
+Adresses IP, type de système d'exploitation.
+Pages ou écrans de l'Application consultés, temps passé.
+Requêtes de recherche effectuées dans l'Application.
+
+  3. Utilisation de Vos Données
+Nous utilisons les données collectées aux fins suivantes :
+Fourniture de Services : Gérer votre compte, vous permettre d'accéder à l'Application et de l'utiliser.
+Mise en Relation : Permettre aux utilisateurs de trouver et de contacter les professionnels pertinents.
+Communication : Vous envoyer des notifications concernant l'activité de l'Application ou des mises à jour du service.
+Amélioration : Analyser l'utilisation pour améliorer la performance, la sécurité et les fonctionnalités de l'Application.
+
+  4. Partage et Divulgation des Données
+
+A. Partage entre Utilisateurs (Professionnels)
+Les informations de profil fournies par les Utilisateurs Professionnels (numéro de téléphone, description, photos, 
+avis reçus, localisation d'activité) sont rendues publiques sur l'Application. Ce partage est la fonction essentielle
+du service Batilink et est nécessaire pour mettre les professionnels en contact avec les clients.
+
+B. Fournisseurs de Services
+Nous partageons vos données avec des fournisseurs de services tiers nécessaires au fonctionnement de l'Application :
+Supabase : Fournisseur de notre service backend, base de données et authentification.
+Services d'Analyse : Pour surveiller et analyser l'utilisation de l'Application.
+
+C. Obligations Légales
+Nous pouvons divulguer vos informations si la loi l'exige ou si nous pensons qu'une telle action est nécessaire pour :
+Nous conformer à une obligation légale.
+Protéger et défendre nos droits ou notre propriété.
+
+  5. Sécurité des Données
+
+Nous prenons des mesures raisonnables pour protéger vos données contre la perte, l'utilisation abusive, l'accès non 
+autorisé, la divulgation, l'altération ou la destruction. Cependant, aucune méthode de transmission sur Internet ou de 
+stockage électronique n'est totalement sécurisée.
+
+  6. Confidentialité des Enfants
+
+Nos services ne s'adressent pas aux personnes de moins de 16 ans. Nous ne recueillons pas sciemment d'informations
+personnellement identifiables auprès de mineurs de moins de 16 ans. Si vous êtes parent ou tuteur et que vous apprenez 
+que votre enfant nous a fourni des données personnelles, veuillez nous contacter.
+
+  7. Vos Droits
+
+Conformément à la réglementation applicable, vous avez le droit d'accéder aux données que nous détenons vous concernant,
+de les rectifier, de les mettre à jour ou de demander leur suppression. Pour exercer ces droits, veuillez nous contacter 
+aux coordonnées indiquées ci-dessous.
+
+  8. Modifications de la Politique de Confidentialité
+
+Nous pourrons mettre à jour notre Politique de Confidentialité de temps à autre.
+Nous vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page et,
+si les changements sont importants, en vous notifiant via l'Application ou par e-mail.
+
+  9. Nous Contacter
+
+Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter :
+Nom de l'entreprise : Batilink Creativo
+E-mail: batilinkcreativo@gmail.com
+Téléphone: +216 31 519 179
+Adresse: Avenue de la République, Sousse, Tunisie
+Code Postal:4000
+
+Batilink s'engage à protéger vos informations personnelles.
